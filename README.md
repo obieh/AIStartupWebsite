@@ -85,3 +85,21 @@
 
 ![jerry-pull](./img/success-merge-add-gui.png)
 
+### Updating Jerry's Branch with lastest(Merging Jerry's branch into main)
+
+* On the terminal run `git switch add-contact-info` to switch to add-contact-info branch
+
+
+![switch](./img/switch-contact-2025-04-23_21-58.png.png)
+
+
+* Run the `git pull origin main`. This will fetch and merge the latest changes from main to Jerry's branch(add-contact-info)
+
+![pull](./img/pull-4rm-main-contac-2025-04-24_00-31.png)
+
+
+### Push Jerry's contribution to the remote repository to finalize his contribution.
+
+* On the terminal run `git push origin add-contact-info`
+
+![push](./img/push-to-main-last-contact2025-04-24_00-35.png)
