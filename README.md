@@ -97,7 +97,7 @@
 
 ![pull](./img/pull-4rm-main-contac-2025-04-24_00-31.png)
 
-
+## Hope you followed through and this have been informative for you.
 ### Push Jerry's contribution to the remote repository to finalize his contribution.
 
 * On the terminal run `git push origin add-contact-info`
