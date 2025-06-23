@@ -28,7 +28,7 @@
 
 ![create pull](./img/create-pull-request-update.png)
 
-### Merge Tom's pull request to branch
+### Merge Tom's pull request to branch.
 * After creating the pull request and there is no conflick with the base branch. Click on _'merge pull request'_ to merge.
 
 ![](./img/created-pull-request-b4-merge-update.png)
@@ -85,7 +85,7 @@
 
 ![jerry-pull](./img/success-merge-add-gui.png)
 
-### Updating Jerry's Branch with lastest(Merging Jerry's branch into main)
+### Updating Jerry's Branch with lastest(Merging Jerry's branch into main).
 
 * On the terminal run `git switch add-contact-info` to switch to add-contact-info branch
 
