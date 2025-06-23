@@ -3,15 +3,15 @@
 
 ### Create a pull request for Tom's contribution.
 
-  **1. Navigate to your Git repository click the branch menu**
+  **1. Navigate to your Git repository click the branch menu.**
 
- **2. Select and switch to the update-navigation branch**
+ **2. Select and switch to the update-navigation branch.**
 
   ![switch to nav](./img/switch-to-update-branch.png)
 
   **3. Create *New Pull Request*:**
 
-  * Click on *contribute* and select *Open pull request* on the drop down menu
+  * Click on *contribute* and select *Open pull request* on the drop down menu.
 
   ![open pull](./img/click-contri-openpullrequest-add-gui.png) 
 
@@ -39,7 +39,7 @@
 
 ![merged](./img/confirm-merge-update.png)
 
-* If the merge is succesfull, git confirm by displaying the window below
+* If the merge is succesfull, git confirm by displaying the window below.
 
 ![succes](./img/success-merge-update.png)
 
