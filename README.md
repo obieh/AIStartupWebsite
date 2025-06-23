@@ -1,5 +1,5 @@
-# AIStartupWebsite
-## This Project Demonstrates How to Create a Pull Request and Merge Branches To Main Branch
+# AIStartupWebsite.
+## This Project Demonstrates How to Create a Pull Request and Merge Branches To Main Branch.
 
 ### Create a pull request for Tom's contribution.
 
