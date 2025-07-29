@@ -19,7 +19,7 @@
 
 **4. Review changes made by Tom**
 
-![review](./img/diff-b4-pull-update.png)
+![review](./img/diff-b4-pull-update.png).
 
 **5. Create the Pull request**
 
